@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @setfps (C#, JS)
-- 👀 I’m Russian Developer (Plugins - Rust, Programs)
-- 📫 My vk - https://vk.com/setfps
+- 👋 Hi, I’m @setfps
 
 <!---
 setfps/setfps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
